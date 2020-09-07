@@ -1,0 +1,10 @@
+@media (max-width:576px){
+    img{
+        width: 80px;
+        height: 80px;
+        max-width: unset;
+    }
+    .user__info ul li{
+        margin-bottom: 15px;
+    }
+}
